@@ -1,4 +1,4 @@
-# Olá! 👋 Este é meu repositório de projeto da DIO💻
+# Olá! 👋 Este é meu de projeto de estudo de Git/Github na DIO💻
 ###### Estudante de desenvolvimento web.
 
 
@@ -11,3 +11,10 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<p align="center" dir="auto">💻 Estação de desenvolvimento 💻<br>
+  <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></img> &nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/NVIDIA-GTX1050_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></img>
+  
+  
+  
+  </p>
